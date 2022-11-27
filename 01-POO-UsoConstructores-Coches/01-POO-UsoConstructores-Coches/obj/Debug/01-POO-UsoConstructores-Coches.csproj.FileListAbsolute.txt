@@ -1,0 +1,8 @@
+C:\Users\Ariel\Documents\GitHub\Net\01-POO-UsoConstructores-Coches\01-POO-UsoConstructores-Coches\bin\Debug\01-POO-UsoConstructores-Coches.exe.config
+C:\Users\Ariel\Documents\GitHub\Net\01-POO-UsoConstructores-Coches\01-POO-UsoConstructores-Coches\bin\Debug\01-POO-UsoConstructores-Coches.exe
+C:\Users\Ariel\Documents\GitHub\Net\01-POO-UsoConstructores-Coches\01-POO-UsoConstructores-Coches\bin\Debug\01-POO-UsoConstructores-Coches.pdb
+C:\Users\Ariel\Documents\GitHub\Net\01-POO-UsoConstructores-Coches\01-POO-UsoConstructores-Coches\obj\Debug\01-POO-UsoConstructores-Coches.csproj.AssemblyReference.cache
+C:\Users\Ariel\Documents\GitHub\Net\01-POO-UsoConstructores-Coches\01-POO-UsoConstructores-Coches\obj\Debug\01-POO-UsoConstructores-Coches.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ariel\Documents\GitHub\Net\01-POO-UsoConstructores-Coches\01-POO-UsoConstructores-Coches\obj\Debug\01-POO-UsoConstructores-Coches.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Documents\GitHub\Net\01-POO-UsoConstructores-Coches\01-POO-UsoConstructores-Coches\obj\Debug\01-POO-UsoConstructores-Coches.exe
+C:\Users\Ariel\Documents\GitHub\Net\01-POO-UsoConstructores-Coches\01-POO-UsoConstructores-Coches\obj\Debug\01-POO-UsoConstructores-Coches.pdb

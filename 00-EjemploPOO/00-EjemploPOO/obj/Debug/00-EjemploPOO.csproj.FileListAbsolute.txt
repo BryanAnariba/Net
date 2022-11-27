@@ -1,0 +1,8 @@
+C:\Users\Ariel\Documents\GitHub\Net\00-EjemploPOO\00-EjemploPOO\bin\Debug\00-EjemploPOO.exe.config
+C:\Users\Ariel\Documents\GitHub\Net\00-EjemploPOO\00-EjemploPOO\bin\Debug\00-EjemploPOO.exe
+C:\Users\Ariel\Documents\GitHub\Net\00-EjemploPOO\00-EjemploPOO\bin\Debug\00-EjemploPOO.pdb
+C:\Users\Ariel\Documents\GitHub\Net\00-EjemploPOO\00-EjemploPOO\obj\Debug\00-EjemploPOO.csproj.AssemblyReference.cache
+C:\Users\Ariel\Documents\GitHub\Net\00-EjemploPOO\00-EjemploPOO\obj\Debug\00-EjemploPOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ariel\Documents\GitHub\Net\00-EjemploPOO\00-EjemploPOO\obj\Debug\00-EjemploPOO.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Documents\GitHub\Net\00-EjemploPOO\00-EjemploPOO\obj\Debug\00-EjemploPOO.exe
+C:\Users\Ariel\Documents\GitHub\Net\00-EjemploPOO\00-EjemploPOO\obj\Debug\00-EjemploPOO.pdb
