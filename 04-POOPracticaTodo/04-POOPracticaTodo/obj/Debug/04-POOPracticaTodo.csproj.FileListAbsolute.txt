@@ -1,0 +1,8 @@
+C:\Users\Ariel\Documents\GitHub\Net\04-POOPracticaTodo\04-POOPracticaTodo\bin\Debug\04-POOPracticaTodo.exe.config
+C:\Users\Ariel\Documents\GitHub\Net\04-POOPracticaTodo\04-POOPracticaTodo\bin\Debug\04-POOPracticaTodo.exe
+C:\Users\Ariel\Documents\GitHub\Net\04-POOPracticaTodo\04-POOPracticaTodo\bin\Debug\04-POOPracticaTodo.pdb
+C:\Users\Ariel\Documents\GitHub\Net\04-POOPracticaTodo\04-POOPracticaTodo\obj\Debug\04-POOPracticaTodo.csproj.AssemblyReference.cache
+C:\Users\Ariel\Documents\GitHub\Net\04-POOPracticaTodo\04-POOPracticaTodo\obj\Debug\04-POOPracticaTodo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ariel\Documents\GitHub\Net\04-POOPracticaTodo\04-POOPracticaTodo\obj\Debug\04-POOPracticaTodo.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Documents\GitHub\Net\04-POOPracticaTodo\04-POOPracticaTodo\obj\Debug\04-POOPracticaTodo.exe
+C:\Users\Ariel\Documents\GitHub\Net\04-POOPracticaTodo\04-POOPracticaTodo\obj\Debug\04-POOPracticaTodo.pdb

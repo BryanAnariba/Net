@@ -10,12 +10,14 @@ namespace _03_POOConceptosHerencia
     {
         public Humano() { }
 
-        public Humano( String tipoSerVivo ): base( tipoSerVivo ) { 
+        public Humano( String tipoSerVivo ): base( tipoSerVivo ) {
+            
         }
         
         override
         public void pensar ()
         {
+            //cuidarCrias();
             Console.WriteLine("Soy humano y soy un ser pensante avanzado supuestamente");
         }
     }

@@ -24,7 +24,7 @@ namespace _03_POOConceptosHerencia
             Console.WriteLine("Soy Capaz de Respirar");
         }
 
-        public void cuidarCrias ()
+        protected void cuidarCrias ()
         {
             Console.WriteLine("Cuido de mis crias hasta que se puedan valer solas");
         }

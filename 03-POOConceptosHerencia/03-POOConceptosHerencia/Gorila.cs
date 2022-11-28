@@ -11,7 +11,7 @@ namespace _03_POOConceptosHerencia
         public Gorila() { }
 
         public Gorila( String tipoSerVivo ): base( tipoSerVivo ) { 
-        
+            
         }
         public void treparArboles ()
         {
