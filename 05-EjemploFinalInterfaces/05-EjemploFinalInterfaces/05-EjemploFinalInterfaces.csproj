@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C342B25A-B14F-4505-A7BE-AECD9B747879}</ProjectGuid>
+    <ProjectGuid>{817BB8AD-7623-418F-B4CB-19D2E563B22F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_03_POOConceptosHerencia</RootNamespace>
-    <AssemblyName>03-POOConceptosHerencia</AssemblyName>
+    <RootNamespace>_05_EjemploFinalInterfaces</RootNamespace>
+    <AssemblyName>05-EjemploFinalInterfaces</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,14 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Ballena.cs" />
-    <Compile Include="Caballo.cs" />
-    <Compile Include="Gorila.cs" />
-    <Compile Include="Humano.cs" />
-    <Compile Include="IAnimalesUsadosEnDeportes.cs" />
-    <Compile Include="IMamiferoTerrestres.cs" />
-    <Compile Include="ISaltoConXPatas.cs" />
-    <Compile Include="Mamifero.cs" />
+    <Compile Include="AvisosTrafico.cs" />
+    <Compile Include="IAviso.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

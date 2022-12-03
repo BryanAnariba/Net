@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _03_POOConceptosHerencia
 {
-    internal class Gorila: Mamifero
+    internal class Gorila: Mamifero, IMamiferoTerrestres
     {
         public Gorila() { }
 
@@ -22,6 +22,15 @@ namespace _03_POOConceptosHerencia
         public void pensar ()
         {
             Console.WriteLine("Pienso como Mono Osea Primitivamente");
+        }
+
+        public int cantidadPatas()
+        {
+            return 2;
+        }
+        public Boolean esDeporteOlimpico()
+        {
+            return false;
         }
     }
 }

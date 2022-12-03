@@ -1,0 +1,8 @@
+C:\Users\Bryan Sanchez\Documents\GitHub\Net\05-EjemploFinalInterfaces\05-EjemploFinalInterfaces\bin\Debug\05-EjemploFinalInterfaces.exe.config
+C:\Users\Bryan Sanchez\Documents\GitHub\Net\05-EjemploFinalInterfaces\05-EjemploFinalInterfaces\bin\Debug\05-EjemploFinalInterfaces.exe
+C:\Users\Bryan Sanchez\Documents\GitHub\Net\05-EjemploFinalInterfaces\05-EjemploFinalInterfaces\bin\Debug\05-EjemploFinalInterfaces.pdb
+C:\Users\Bryan Sanchez\Documents\GitHub\Net\05-EjemploFinalInterfaces\05-EjemploFinalInterfaces\obj\Debug\05-EjemploFinalInterfaces.csproj.AssemblyReference.cache
+C:\Users\Bryan Sanchez\Documents\GitHub\Net\05-EjemploFinalInterfaces\05-EjemploFinalInterfaces\obj\Debug\05-EjemploFinalInterfaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bryan Sanchez\Documents\GitHub\Net\05-EjemploFinalInterfaces\05-EjemploFinalInterfaces\obj\Debug\05-EjemploFinalInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Sanchez\Documents\GitHub\Net\05-EjemploFinalInterfaces\05-EjemploFinalInterfaces\obj\Debug\05-EjemploFinalInterfaces.exe
+C:\Users\Bryan Sanchez\Documents\GitHub\Net\05-EjemploFinalInterfaces\05-EjemploFinalInterfaces\obj\Debug\05-EjemploFinalInterfaces.pdb

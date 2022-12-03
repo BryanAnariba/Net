@@ -21,6 +21,13 @@ namespace _03_POOConceptosHerencia
             Console.WriteLine($"Tipo Ser Vivo: {puraSangre.getTipoSerVivo()}");
             puraSangre.galopar();
             puraSangre.pensar();
+            Console.WriteLine(puraSangre.cantidadPatas()); ;
+            Console.WriteLine(puraSangre.esDeporteOlimpico());
+            Console.WriteLine(puraSangre.saltoConNumeroPatas(2));
+     
+
+            Ballena orca = new Ballena("Orca");
+            orca.pensar();
         }
     }
 }

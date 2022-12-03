@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _03_POOConceptosHerencia
 {
-    internal class Humano: Mamifero 
+    internal class Humano: Mamifero, IMamiferoTerrestres, IAnimalesUsadosEnDeportes
     {
         public Humano() { }
 
@@ -19,6 +19,21 @@ namespace _03_POOConceptosHerencia
         {
             //cuidarCrias();
             Console.WriteLine("Soy humano y soy un ser pensante avanzado supuestamente");
+        }
+
+        public int cantidadPatas()
+        {
+            return 2;
+        }
+
+        public string tipoDeporte()
+        {
+            return "ATLETISMO";
+        }
+
+        public Boolean esDeporteOlimpico()
+        {
+            return true;
         }
     }
 }
