@@ -1,0 +1,8 @@
+C:\Users\Bryan Sanchez\Documents\GitHub\Net\09-Colecciones-List\09-Colecciones-List\bin\Debug\09-Colecciones-List.exe.config
+C:\Users\Bryan Sanchez\Documents\GitHub\Net\09-Colecciones-List\09-Colecciones-List\bin\Debug\09-Colecciones-List.exe
+C:\Users\Bryan Sanchez\Documents\GitHub\Net\09-Colecciones-List\09-Colecciones-List\bin\Debug\09-Colecciones-List.pdb
+C:\Users\Bryan Sanchez\Documents\GitHub\Net\09-Colecciones-List\09-Colecciones-List\obj\Debug\09-Colecciones-List.csproj.AssemblyReference.cache
+C:\Users\Bryan Sanchez\Documents\GitHub\Net\09-Colecciones-List\09-Colecciones-List\obj\Debug\09-Colecciones-List.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bryan Sanchez\Documents\GitHub\Net\09-Colecciones-List\09-Colecciones-List\obj\Debug\09-Colecciones-List.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Sanchez\Documents\GitHub\Net\09-Colecciones-List\09-Colecciones-List\obj\Debug\09-Colecciones-List.exe
+C:\Users\Bryan Sanchez\Documents\GitHub\Net\09-Colecciones-List\09-Colecciones-List\obj\Debug\09-Colecciones-List.pdb
