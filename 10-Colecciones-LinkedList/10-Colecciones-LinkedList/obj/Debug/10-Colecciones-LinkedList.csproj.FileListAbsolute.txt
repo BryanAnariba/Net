@@ -1,0 +1,8 @@
+C:\Users\Bryan Sanchez\Documents\GitHub\Net\10-Colecciones-LinkedList\10-Colecciones-LinkedList\bin\Debug\10-Colecciones-LinkedList.exe.config
+C:\Users\Bryan Sanchez\Documents\GitHub\Net\10-Colecciones-LinkedList\10-Colecciones-LinkedList\bin\Debug\10-Colecciones-LinkedList.exe
+C:\Users\Bryan Sanchez\Documents\GitHub\Net\10-Colecciones-LinkedList\10-Colecciones-LinkedList\bin\Debug\10-Colecciones-LinkedList.pdb
+C:\Users\Bryan Sanchez\Documents\GitHub\Net\10-Colecciones-LinkedList\10-Colecciones-LinkedList\obj\Debug\10-Colecciones-LinkedList.csproj.AssemblyReference.cache
+C:\Users\Bryan Sanchez\Documents\GitHub\Net\10-Colecciones-LinkedList\10-Colecciones-LinkedList\obj\Debug\10-Colecciones-LinkedList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bryan Sanchez\Documents\GitHub\Net\10-Colecciones-LinkedList\10-Colecciones-LinkedList\obj\Debug\10-Colecciones-LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Sanchez\Documents\GitHub\Net\10-Colecciones-LinkedList\10-Colecciones-LinkedList\obj\Debug\10-Colecciones-LinkedList.exe
+C:\Users\Bryan Sanchez\Documents\GitHub\Net\10-Colecciones-LinkedList\10-Colecciones-LinkedList\obj\Debug\10-Colecciones-LinkedList.pdb

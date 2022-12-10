@@ -1,0 +1,8 @@
+C:\Users\Bryan Sanchez\Documents\GitHub\Net\11-ColeccionesFIFO-Colas\11-ColeccionesFIFO-Colas\bin\Debug\11-ColeccionesFIFO-Colas.exe.config
+C:\Users\Bryan Sanchez\Documents\GitHub\Net\11-ColeccionesFIFO-Colas\11-ColeccionesFIFO-Colas\bin\Debug\11-ColeccionesFIFO-Colas.exe
+C:\Users\Bryan Sanchez\Documents\GitHub\Net\11-ColeccionesFIFO-Colas\11-ColeccionesFIFO-Colas\bin\Debug\11-ColeccionesFIFO-Colas.pdb
+C:\Users\Bryan Sanchez\Documents\GitHub\Net\11-ColeccionesFIFO-Colas\11-ColeccionesFIFO-Colas\obj\Debug\11-ColeccionesFIFO-Colas.csproj.AssemblyReference.cache
+C:\Users\Bryan Sanchez\Documents\GitHub\Net\11-ColeccionesFIFO-Colas\11-ColeccionesFIFO-Colas\obj\Debug\11-ColeccionesFIFO-Colas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bryan Sanchez\Documents\GitHub\Net\11-ColeccionesFIFO-Colas\11-ColeccionesFIFO-Colas\obj\Debug\11-ColeccionesFIFO-Colas.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Sanchez\Documents\GitHub\Net\11-ColeccionesFIFO-Colas\11-ColeccionesFIFO-Colas\obj\Debug\11-ColeccionesFIFO-Colas.exe
+C:\Users\Bryan Sanchez\Documents\GitHub\Net\11-ColeccionesFIFO-Colas\11-ColeccionesFIFO-Colas\obj\Debug\11-ColeccionesFIFO-Colas.pdb
